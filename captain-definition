@@ -3,6 +3,6 @@
   "dockerfileLines" :[
                         "FROM clue/json-server",
                         "COPY ./src /data",
-                        "EXPOSE 80",
+                        "EXPOSE 80"
                     ]
  }
