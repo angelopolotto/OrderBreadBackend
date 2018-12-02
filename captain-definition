@@ -8,6 +8,6 @@
                         "RUN npm install -g json-server",
                         "COPY ./src /usr/src/app",
                         "EXPOSE 3000",
-						"CMD [ \"json-server --watch\", \"db.json\" ]"
+						"CMD [ \"json-server\", \"--watch\", \"db.json\" ]"
                     ]
  }
