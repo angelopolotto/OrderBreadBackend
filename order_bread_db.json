@@ -1,0 +1,27 @@
+{
+  "breads": [
+    { 
+        "id": 1, 
+        "name": "Pão de rústico com massa madre", 
+        "thumbnail": "https://cdn3.tmbi.com/toh/GoogleImagesPostCard/exps32480_MRR153791D09_18_6b.jpg",
+        "images": [
+          "https://cdn3.tmbi.com/toh/GoogleImagesPostCard/exps32480_MRR153791D09_18_6b.jpg", 
+          "https://www.saveur.com/sites/saveur.com/files/styles/1000_1x_/public/milk-bread-14_2000x1500.jpg?itok=DalU9hCJ&fc=50,50", 
+          "https://www.browneyedbaker.com/wp-content/uploads/2016/05/white-bread-51-600-600x400.jpg"
+        ],
+        "description": "Pão rústico com massa madre temperado com azeite e pimenta rosa.",
+        "combinations": "manteiga, presunto, cream-cheese",
+        "flavor": "Salgado com toques de sutís de pimenta rosa e azeite. Possui aroma intenso de pimenta rosa",
+        "nutritional": "http://www.paoguarany.com.br/sites/paoguarany.com.br/files/conteudo/P%C3%A3o%20de%20Forma%20Integral%20TN_0.png",
+        "allergic": "Glutém",
+        "durability": "3 dias",
+        "dimensions": "800g - 12x5x5 cm",
+        "price": 12.00,
+        "currency": "R$"
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
