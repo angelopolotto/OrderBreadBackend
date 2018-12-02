@@ -4,6 +4,7 @@
                         "FROM node:10.14.0-alpine",
                         "RUN mkdir -p /usr/src/app",
                         "WORKDIR /usr/src/app",
+                        "RUN npm config set unsafe-perm true",
                         "RUN npm install -g json-server",
                         "COPY ./src /usr/src/app",
                         "EXPOSE 3000",
