@@ -6,7 +6,7 @@ import org.springframework.data.mongodb.core.mapping.Document
 import java.math.BigDecimal
 
 @Document(value = "breads")
-class Bread @PersistenceConstructor constructor(
+class Breads(
         @Id
         var id: String?,
         var name: String?,
