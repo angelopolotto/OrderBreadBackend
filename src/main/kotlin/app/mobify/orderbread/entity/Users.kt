@@ -8,5 +8,5 @@ class Users(
         @Id
         var id: ObjectId?,
         var username: String?,
-        var role: String?,
+        var roles: List<String>?,
         var password: String?)
